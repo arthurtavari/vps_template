@@ -1,5 +1,3 @@
-# README - Instalação Evolution V2
-
 ## Passos de Instalação
 
 1. Atualizar o sistema e instalar apparmor-utils:
